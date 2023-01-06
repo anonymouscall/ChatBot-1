@@ -9,7 +9,7 @@ import re
 
 API_ID = os.environ.get("API_ID", "27010214") 
 API_HASH = os.environ.get("API_HASH", "cb4db6f0544f7de0f66d8c1cfcff5e6d") 
-STRING = os.environ.get("STRING", "AQAG0SXo-oMiMnMMuJroGJQP06DB9GnlvBYfy4TTALBexCIM_OJSGvaPOoaclkuYH0kEGOR1AQpOBw-qiyGkIzr_fyNKCebrVPCE6J9WNhLIVsaKCo_WAbO_AOroloOBzAx5-sVXn1qE_z7FuclpRkl55CSg7QBayk-dup8JrLkDOcuHssqDLa5LlCkpWQrtmrcvgc_28s0S1XnkvuFAa_8ZZdhDmoAGmL7IonsvfwVOnJED_lttNjSsWePpfMLgzAVAfTMmzJehGYevzQWAcf6LCmrUIcXYXpy-EP9XBaRm2n-r8C7cDpCLNOB43-7WJgacsrwpk2pzbqTyOKyj9zfxAAAAAUaF7HIA") 
+STRING = os.environ.get("STRING", "AQBpxKU8FeWbAMrQRgZ9q5PNag3v2m5zuZafsD5dSwFHGL_ooADGMcs-m-9BTQy3dRjdZT57whYdOOZtwudxw4s5KYFSRW_Py8d0OkZ0gSnlpck20_IzP75UxMLqxu5j9RaJnMZAAVCt--neNo2TOpPOp9YVsEIVCtuxs6HoLRNWHYAyBzMhFPq2cM1FDCs-_R1SON3GFWJ3sM8pE09SHVbFs7kxDCd9NCWMdJluQjX__BOZxpjntj4m5MFBxGBjGwGpkeo1RvJgB5LiJFxmszynfJ_cG9HytaHmN-rD7kC7Xdb2pM9qawR2ed7v5ZQy3EC71qEaCr3fWopxouKJp2ltAAAAAVghQkAA") 
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://Music:Music@cluster0.f9x4i.mongodb.net/Cluster0?retryWrites=true&w=majority")
 
 
